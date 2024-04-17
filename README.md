@@ -1,1 +1,1 @@
-Printing country namesw with filter methods
+Printing country names with filter methods
