@@ -1,3 +1,4 @@
+//Day 7 task 
 //Get all the countries from Asia continent /region using Filter function
 /*
 const request = new XMLHttpRequest();
